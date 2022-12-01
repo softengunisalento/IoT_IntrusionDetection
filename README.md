@@ -2,7 +2,7 @@
 
 # Un modulo di Intrusion Detection basato su tecniche di Intelligenza Artificiale per l’identificazione di attacchi su infrastrutture IoT critiche
 
-Il progetto nasce con lo scopo di testare la capacità di dispositivi IoT dalle risorse limitate di rilevare intrusioni nelle reti attraverso l'analisi del traffico mediante ML.
+> Il progetto nasce con lo scopo di testare la capacità di dispositivi IoT dalle risorse limitate di rilevare intrusioni nelle reti attraverso l'analisi del traffico mediante ML.
 
 ## Struttura directory
 
