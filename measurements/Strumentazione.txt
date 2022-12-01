@@ -1,0 +1,4 @@
+multimetro portatile: kdm-360ctf
+multimetro da banco: gw-instek gdm 8351
+oscilloscopio 1: hantek dso5072p (No code/sine/fahrenit)
+oscilloscopio 2: hantek dso4202c (NLS-KDD)
